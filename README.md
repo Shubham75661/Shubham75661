@@ -19,5 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham75661&show_icons=true&locale=en&layout=compact" alt="shubham75661" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham75661&" alt="shubham75661" />
-![MasterHead](https://cdn1.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)
-![Leetcode Stats](https://leetcard.jacoblin.cool/shubhamKotarwar)
