@@ -91,10 +91,10 @@ Kreeda Labs      │  Full Stack Developer            │  Sept 2022 – Dec 202
 
 ### 🎓 Education
 
-| Degree | University | Year | Score |
+| Degree | University |
 |---|---|---|---|
-| Master in Computer Application | Pune University | 2020 – 2022 | CGPA: 8.88 |
-| Bachelor in Computer Application | Pune University | 2017 – 2020 | 70% |
+| Master in Computer Application | Pune University | 
+| Bachelor in Computer Application | Pune University | 
 
 ---
 
